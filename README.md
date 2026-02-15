@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<summary>Tools</summary>
+<p align="center">Tools</p>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
