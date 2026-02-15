@@ -112,6 +112,11 @@
 		<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png?20200803071016" alt="Intellij" title="Intellij"/>
       <!--<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupiter" title="Jupiter"/>-->
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JvYXFxaTZ1cHR1ejBzOGFjYTlqcXl4ZHgwbHd4bzY2bTQwbGsydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FJ0yDY9uAHzxLeKfIn/giphy.gif" width="300" alt="fun gif" />
+</p>
+
+
 </div>
 
 
